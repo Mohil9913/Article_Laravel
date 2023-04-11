@@ -1,0 +1,59 @@
+
+body{
+    background-color: #62CDFF;
+}
+
+h1{
+    font-family: 'Pacifico', cursive;
+    font-size: 5rem;
+    color: #62CDFF;
+    text-shadow: 5px 5px 13px black;
+}
+
+p{
+    margin: 4% 0;
+}
+
+a{
+    font-family: 'Pacifico', cursive;
+    color: #62CDFF;
+}
+
+.card{
+    border: 0;
+    margin: 7% 12%;
+}
+
+.cardHead{
+    margin-bottom: 8%;
+}
+
+.butt{
+    width: 100%;
+}
+
+.inp{
+    margin: 3% 0;
+}
+
+.error-text {
+    color: rgb(255, 255, 255);
+    background: rgba(255, 68, 68, 0.76);
+    font-weight: bold;
+    text-align: center;
+    padding: 0.2rem 0.2rem;
+    padding: 1rem;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.success-text {
+color: rgb(0, 0, 0);
+background: rgba(137, 255, 68, 0.76);
+font-weight: bold;
+text-align: center;
+padding: 0.2rem 0.2rem;
+padding: 1rem;
+border-radius: 5px;
+width: 100%;
+}
